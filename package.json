@@ -1,7 +1,14 @@
 {
   "name": "@carlrafting/create-eleventy-noconfig-starter",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "get-stdin": "^9.0.0",
+    "meow": "^12.1.0"
+  },
+  "main": "./main.mjs",
+  "bin": "./main.mjs",
+  "scripts": {
+    "copy": "npx degit carlrafting/eleventy-noconfig-starter"
   },
   "version": "1.0.1",
   "description": "A noconfig template for getting started with eleventy",
