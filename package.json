@@ -1,6 +1,16 @@
 {
-    "name": "@carlrafting/eleventy-noconfig-starter",
-    "dependencies": {
-        "@11ty/eleventy": "^2.0.1"
-    }
+  "name": "@carlrafting/create-eleventy-noconfig-starter",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "version": "1.0.0",
+  "description": "A noconfig template for getting started with eleventy",
+  "keywords": [
+    "@11ty",
+    "eleventy",
+    "noconfig",
+    "starter",
+    "template"
+  ],
+  "license": "MIT"
 }
