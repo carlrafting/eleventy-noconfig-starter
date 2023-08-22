@@ -12,5 +12,6 @@
     "starter",
     "template"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "github:carlrafting/eleventy-noconfig-starter"
 }
