@@ -1,5 +1,5 @@
 {
-  "name": "@carlrafting/create-eleventy-noconfig-starter",
+  "name": "@carlrafting/eleventy-noconfig-starter",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1"
   },
